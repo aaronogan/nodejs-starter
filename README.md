@@ -5,4 +5,4 @@ Simple starting point for a nodejs app using typescript.
 1. `npm install -g gulp`
 1. `yarn install`
 1. `gulp`
-1. `node dist/main.js`
+1. `node dist/index.js`
